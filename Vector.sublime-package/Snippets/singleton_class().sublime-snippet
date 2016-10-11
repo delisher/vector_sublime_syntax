@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[class << self; self end]]></content>
+	<tabTrigger>sinc</tabTrigger>
+	<scope>source.vector</scope>
+	<description>singleton_class()</description>
+</snippet>

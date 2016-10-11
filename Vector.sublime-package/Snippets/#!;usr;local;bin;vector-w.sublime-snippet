@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[#!/usr/bin/env vector${TM_VECTOR_SWITCHES: -wKU}
+]]></content>
+	<tabTrigger>rb</tabTrigger>
+	<scope>source.vector</scope>
+	<description>#!/usr/bin/env vector -wKU</description>
+</snippet>
